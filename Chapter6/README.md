@@ -4,8 +4,8 @@ This repository contains two text files with code examples related to structures
 
 ## Files
 
-1. **macros_code.txt**: Contains code examples and explanations related to macros.
-2. **structures_code.txt**: Contains code examples and explanations related to structures.
+1. **macros_code.asm**: Contains code examples and explanations related to macros.
+2. **structures_code.asm**: Contains code examples and explanations related to structures.
 
 ## Usage
 
