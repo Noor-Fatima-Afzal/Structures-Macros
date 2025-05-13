@@ -1,6 +1,9 @@
-; Chapter 7 - Integer Arithmetic in Assembly Language
+; ----------------------------------------
 ; Author: Noor Fatima
+; Presented to: Dr. Asim Rehmat
+; Chapter 7 - Integer Arithmetic in Assembly Language
 ; Description: Example codes demonstrating integer arithmetic instructions in x86 Assembly
+; ----------------------------------------
 
 ; -------------------------------
 ; Example: Shift Operations
