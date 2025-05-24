@@ -1,4 +1,4 @@
-; Author: ChatGPT
+; Author: Noor Fatima
 ; Description: FSM for hex integer constant in MASM syntax
 ;              Takes input from keyboard, validates hex constant ending with 'h' or 'H'
 
